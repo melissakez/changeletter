@@ -1,7 +1,7 @@
 var tampungan = "";
 
 function pisah(kalimat){
-    let x = kalimat.split(" "); //dipisah jadi kata-kata, x adalah kata-kata
+    let x = kalimat.split(" ");
     let letter = {'a':'4','i':'1','e':'3','o':'0'};
     
     for (i= 0; i< x.length; i++){
