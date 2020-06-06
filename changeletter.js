@@ -16,4 +16,4 @@ function pisah(kalimat){
     console.log(tampungan);    
 }
 
-pisah("helo i am melissa in the morning on the steet a rat");
+pisah("helo i am siapa aja in the morning on the steet a duck");
